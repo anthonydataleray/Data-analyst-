@@ -1,31 +1,37 @@
 # Anthony LERAY
-## Data Analyst
+> **Data Analyst** | Passionné par la transformation de la donnée en décisions stratégiques.
 
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/anthony-leray-1b5732152/)
+[ ![Portfolio](https://img.shields.io/badge/Mon_Portfolio-GitHub-black?style=for-the-badge&logo=github) ](https://anthonydataleray.github.io/Data-analyst-/)
 
-### 👋 À propos de moi
-Après avoir travaillé dans le secteur de l’accompagnement, j’ai choisi de me reconvertir vers la data.
+---
 
-### 💼 Mon parcours
-**2008-2025 | Mission locale du bassin d’emploi de Rennes (devenu We Ker)**
+### 👤 À propos de moi
+Après avoir travaillé dans le secteur de l’accompagnement, j’ai choisi de me reconvertir vers la data. Fort d'une expérience en gestion de projet, je combine rigueur analytique et vision terrain.
 
-* **Postes occupés :** Conseiller en insertion, conseiller emploi, conseiller garantie jeunes, référent de quartier, chargé de projet, manager d’équipe.
-* **Responsabilités exercées :**
-    * Requêtage pour l’équipe des conseillers.
-    * Encadrement équipe accueil, équipe FAJ (Fonds d’aide aux jeunes).
-    * Suivi du budget annuel FAJ.
-    * Mise en œuvre du SPIE (Service public de l’insertion et de l’emploi).
+### 🛠 Compétences Techniques
+* **Analyse de données :** SQL (PostgreSQL, MySQL), Python (Pandas, Matplotlib)
+* **Visualisation :** Power BI, Excel avancé
+* **Soft Skills :** Gestion de projet, Management d'équipe, Accompagnement au changement
 
-### 🎓 Mes formations
-* **2026 :** Parcours Data Analyst - **Openclassrooms**
-* **2005 :** Master Formation Insertion – **Université Rennes 2**
+---
 
-### 📊 Mes projets
-* **Projet SQL :** Créez et utilisez une base de données immobilière avec SQL.
-* **Power BI :** Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets.
+### 💼 Expérience Professionnelle
+**2008 - 2025 | We Ker (Bassin d'emploi de Rennes)**
+* *Manager d'équipe & Chargé de projet*
+* Requêtage de données opérationnelles pour l'aide à la décision.
+* Pilotage du budget annuel FAJ et déploiement du SPIE.
 
-### ✉️ Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-leray-1b5732152/)
-* **Mail :** lerayanthony82@yahoo.fr
+---
+
+### 🚀 Projets Phares
+| Projet | Description | Outil |
+| :--- | :--- | :--- |
+| **Immobilier SQL** | Analyse de base de données immobilière | SQL |
+| **Dashboard Projets** | Suivi dynamique d'avancement | Power BI |
+
+---
+
+### 🎓 Formation
+* **2026** : Data Analyst - *Openclassrooms*
+* **2005** : Master Formation Insertion - *Université Rennes 2*
