@@ -1,5 +1,9 @@
 title: "Anthony Leray"
-description: "Portfolio Data Analyst"
-show_downloads: true
+description: "Portfolio Data Analyst | SQL - Power BI - Python"
+show_downloads: false # Souvent plus propre de le mettre sur false pour un portfolio
 theme: cayman
 lang: fr
+# Certains thèmes acceptent ces options :
+google_analytics: [UA-XXXXXXXXX-X]
+github:
+  is_project_page: false
