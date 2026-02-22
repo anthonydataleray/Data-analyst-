@@ -23,7 +23,7 @@ Pour ce projet, j'ai mis en place un **SGBDR (PostgreSQL)** pour garantir :
 ## 📐 Modélisation (MLD)
 Le schéma relationnel a été conçu pour lier efficacement les transactions aux données géographiques et démographiques.
 
-
+<p align="center">  <img src="images/schema_relationnel.png" width="180" alt="Schéma relationnel"></p>
 
 ---
 
