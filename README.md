@@ -1,27 +1,40 @@
 # Anthony LERAY
 ## 📊 Data Analyst
 
+> **Expert en gestion de projet reconverti dans l'analyse de données.**
+
 [LinkedIn](https://www.linkedin.com/in/anthony-leray-1b5732152/) | [Email](mailto:lerayanthony82@yahoo.fr)
 
 ---
 
 ### 👋 À propos de moi
-Après avoir travaillé dans le secteur de l’accompagnement, j’ai choisi de me reconvertir vers la data.
-
-### 🛠 Compétences
-- **Langages :** SQL, Python
-- **Outils :** Power BI, Excel, GitHub
-
-### 🚀 Projets
-- **Projet SQL :** Analyse de base de données immobilière.
-- **Power BI :** Dashboard de suivi de projet.
+Après une solide expérience dans le secteur de l'accompagnement et du management à Rennes (We Ker), je mets aujourd'hui mes compétences au service de la donnée.
 
 ---
 
-### 💼 Parcours
-**2008 - 2025 | We Ker (Bassin de Rennes)**
-*Manager d'équipe & Chargé de projet.*
+### 🛠 Compétences Techniques
+* **Analyse :** SQL (PostgreSQL, MySQL), Python
+* **Visualisation :** Power BI, Excel
+* **Outils :** GitHub, VS Code
 
-### 🎓 Formations
-- **2026** : Data Analyst - *Openclassrooms*
-- **2005** : Master Formation Insertion - *Université Rennes 2*
+---
+
+### 🚀 Projets
+#### 🏠 Projet SQL
+*Analyse d'une base de données immobilière pour identifier les tendances du marché.*
+
+#### 📈 Projet Power BI
+*Conception d'un tableau de bord dynamique pour le pilotage de projets.*
+
+---
+
+### 💼 Parcours Professionnel
+**2008 - 2025 | Mission locale de Rennes (We Ker)**
+* Manager d'équipe & Chargé de projet.
+* Expertise en requêtage opérationnel et suivi budgétaire.
+
+---
+
+### 🎓 Formation
+* **2026 :** Parcours Data Analyst - *Openclassrooms*
+* **2005 :** Master Formation Insertion - *Université Rennes 2*
