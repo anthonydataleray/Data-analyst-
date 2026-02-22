@@ -1,9 +1,5 @@
-title: "Anthony Leray"
-description: "Portfolio Data Analyst | SQL - Power BI - Python"
-show_downloads: false # Souvent plus propre de le mettre sur false pour un portfolio
-theme: jekyll-theme-cayman
-lang: fr
-# Certains thèmes acceptent ces options :
-google_analytics: [UA-XXXXXXXXX-X]
-github:
-  is_project_page: false
+title: Anthony Leray
+description: Portfolio Data Analyst | SQL - Power BI - Python
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
