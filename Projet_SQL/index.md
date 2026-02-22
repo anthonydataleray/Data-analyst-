@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # 🏠 Analyse du Marché Immobilier - SQL
 **Projet : Création et exploitation d'une base de données pour Laplace Immo**
 
