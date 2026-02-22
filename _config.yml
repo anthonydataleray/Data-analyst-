@@ -1,5 +1,5 @@
 title: Anthony Leray
 description: Portfolio Data Analyst | SQL - Power BI - Python
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
