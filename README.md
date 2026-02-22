@@ -30,7 +30,7 @@
 
 ### 🚀 Projets Data
 * **Projet SQL :** Création et exploitation d'une base de données immobilière complète[cite: 33].
-* [Consulter mon Projet SQL ici](/Data-analyst-/Projets_SQL/index)
+* [Consulter mon Projet SQL ici](./Projet_SQL/index.html)
 * [cite_start]**Projet Power BI :** Conception d'un tableau de bord dynamique pour visualiser l'avancement de projets[cite: 35].
 
 ---
