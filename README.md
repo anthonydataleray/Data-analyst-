@@ -1,14 +1,14 @@
 # Anthony LERAY
 ## 📊 Data Analyst
 
-> **Expert en gestion de projet reconverti dans l'analyse de données.**
+> **Professionnel de l'insertion et de l'accomapgnement, j'ai opéré une reconversion dans l'analyse de données**
 
 [LinkedIn](https://www.linkedin.com/in/anthony-leray-1b5732152/) | [Email](mailto:lerayanthony82@yahoo.fr)
 
 ---
 
 ### 👋 À propos de moi
-Après une solide expérience dans le secteur de l'accompagnement et du management à Rennes (We Ker), je mets aujourd'hui mes compétences au service de la donnée.
+Après une solide expérience dans le secteur de l'accompagnement et de l'insertion, je mets aujourd'hui mes compétences au service de la donnée.
 
 ---
 
