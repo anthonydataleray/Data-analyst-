@@ -30,6 +30,7 @@
 
 ### 🚀 Projets Data
 * **Projet SQL :** Création et exploitation d'une base de données immobilière complète[cite: 33].
+* [Consulter mon Projet SQL ici](./Projets_SQL/Module_5_SQL.md)
 * [cite_start]**Projet Power BI :** Conception d'un tableau de bord dynamique pour visualiser l'avancement de projets[cite: 35].
 
 ---
