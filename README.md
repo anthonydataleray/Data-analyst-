@@ -24,6 +24,7 @@ Après avoir travaillé dans le secteur de l’accompagnement, j’ai choisi de 
 <p align="left">
   <img src="images/logo_OC.png" width="120" alt="Logo Openclassrooms">
 </p>
+
 * **2026 :** Parcours Data Analyst – **Openclassrooms**
 * **2005 :** Master Formation Insertion – **Université Rennes 2**
 
