@@ -1,9 +1,6 @@
 # Anthony LERAY
 ## 📊 Data Analyst
 
-<p align="left">
-  <img src="images/logo_OC.png" width="120" alt="Logo Openclassrooms">
-</p>
 
 ### 👋 À propos de moi
 Après avoir travaillé dans le secteur de l’accompagnement, j’ai choisi de me reconvertir vers la data. Mon parcours est marqué par une solide expérience en gestion de projet au sein du bassin d'emploi de Rennes.
@@ -23,6 +20,10 @@ Après avoir travaillé dans le secteur de l’accompagnement, j’ai choisi de 
 ---
 
 ### 🎓 Formations
+
+<p align="left">
+  <img src="images/logo_OC.png" width="120" alt="Logo Openclassrooms">
+</p>
 * **2026 :** Parcours Data Analyst – **Openclassrooms**
 * **2005 :** Master Formation Insertion – **Université Rennes 2**
 
