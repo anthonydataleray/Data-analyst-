@@ -34,6 +34,7 @@ Après avoir travaillé dans le secteur de l’accompagnement, j’ai choisi de 
 * **Projet SQL :** Création et exploitation d'une base de données immobilière complète.
 * [Consulter mon Projet SQL ici](./Projet_SQL/index.html)
 * **Projet Power BI :** Conception d'un tableau de bord dynamique pour visualiser l'avancement de projets.
+* [Consulter mon Projet SQL ici](./Projet_Power_BI/index.html)
 
 ---
 
