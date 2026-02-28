@@ -1,9 +1,7 @@
 # Anthony LERAY
 ## 📊 Data Analyst
 
-<span style="background-color: #1a202c; color: white; border: 1px solid #2d3748; padding: 5px 15px; border-radius: 50px; margin-right: 5px;">R</span>
-<span style="background-color: #1a202c; color: white; border: 1px solid #2d3748; padding: 5px 15px; border-radius: 50px; margin-right: 5px;">Python</span>
-<span style="background-color: #1a202c; color: white; border: 1px solid #2d3748; padding: 5px 15px; border-radius: 50px; margin-right: 5px;">SQL</span>
+[![My Skills](https://skillicons.dev/icons?i=python,r,postgres,sklearn,statsmodels)](https://skillicons.dev)
 
 
 ### 👋 À propos de moi
