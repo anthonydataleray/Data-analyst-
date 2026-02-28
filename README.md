@@ -1,6 +1,10 @@
 # Anthony LERAY
 ## 📊 Data Analyst
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### 👋 À propos de moi
 Après avoir travaillé dans le secteur de l’accompagnement, j’ai choisi de me reconvertir vers la data. Mon parcours est marqué par une solide expérience en gestion de projet au sein du bassin d'emploi de Rennes.
