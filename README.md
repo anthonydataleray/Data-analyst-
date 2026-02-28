@@ -35,6 +35,7 @@ Après avoir travaillé dans le secteur de l’accompagnement, j’ai choisi de 
 * [Consulter mon Projet SQL ici](./Projet_SQL/index.html)
 * **Projet Power BI :** Conception d'un tableau de bord dynamique pour visualiser l'avancement de projets.
 * [Consulter mon Projet SQL ici](./Projet_Power_BI/index.html)
+  Conception d'un tableau de bord retraçant l'activité du réseau des missions locales de 2019 à 2022
 
 ---
 
