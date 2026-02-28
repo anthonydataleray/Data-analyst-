@@ -1,9 +1,9 @@
 # Anthony LERAY
 ## 📊 Data Analyst
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+<span style="background-color: #1a202c; color: white; border: 1px solid #2d3748; padding: 5px 15px; border-radius: 50px; margin-right: 5px;">R</span>
+<span style="background-color: #1a202c; color: white; border: 1px solid #2d3748; padding: 5px 15px; border-radius: 50px; margin-right: 5px;">Python</span>
+<span style="background-color: #1a202c; color: white; border: 1px solid #2d3748; padding: 5px 15px; border-radius: 50px; margin-right: 5px;">SQL</span>
 
 
 ### 👋 À propos de moi
