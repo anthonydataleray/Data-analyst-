@@ -1,7 +1,21 @@
 # Anthony LERAY
 ## 📊 Data Analyst
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,postgres,sklearn,statsmodels)](https://skillicons.dev)
+### 🛠️ Compétences Techniques
+
+#### **Langages & Requêtage**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### **Analyse & Visualisation**
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL Power Architect](https://img.shields.io/badge/SQL_Power_Architect-orange?style=for-the-badge&logo=databricks&logoColor=white)
+
+#### **Environnements de travail**
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 
 ### 👋 À propos de moi
